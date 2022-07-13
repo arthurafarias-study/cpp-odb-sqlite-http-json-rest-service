@@ -1,0 +1,5 @@
+#define BEASTHTTP_VERSION_MAJOR 3
+#define BEASTHTTP_VERSION_MINOR 0
+
+#define BEASTHTTP_VERSION_VALUE ((BEASTHTTP_VERSION_MAJOR * 10) \
+                                                     + BEASTHTTP_VERSION_MINOR)
